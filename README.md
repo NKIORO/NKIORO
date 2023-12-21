@@ -1,7 +1,7 @@
 - 👋 Bonjour, Je suis **Prestige NKIORO**
-- 👀 Je suis passionné en Informarique et le Web. Journaliste jadis, 
-- 🌱 Je suis **Master 2 Culture et Métiers Web** à l'Université ***Gustave Eiffel*** en alternance chez **EvaluCar** ...
-- 💞️ Je suis apprenti pour le poste de **Product Owner**
+- 👀 Journaliste jadis, je suis passionné en Informatique et le Web.  
+- 🌱 Actuellement, je suis en **Master 2 Culture et Métiers Web** à l'Université ***Gustave Eiffel*** en contrat d'apprentissage chez **EvaluCar**
+- 💞️ Pour le poste de **Product Owner**
 - 📫 J'apprends des choses très très enrichissantes avec mon tuteur en Entreprise, et je suis très épanoui, etc.
 
 <!---
